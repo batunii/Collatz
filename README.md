@@ -1,0 +1,2 @@
+# Collatz
+Collatz Conjucture Visualized
